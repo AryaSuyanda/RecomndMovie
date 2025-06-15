@@ -1,4 +1,4 @@
-# Laporan Proyek Machine Learning - Sukma Ramadhan Asri
+# Laporan Proyek Machine Learning - Arya Suyanda
 
 ## Project Overview
 
